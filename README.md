@@ -1,7 +1,7 @@
 # Hello-world
 just another repository
 Learning to use GitHub.Version Control System, great experience.
-##Heading
+## Heading
 Some text
-###Sub heading
+### Sub heading
 :sparkle: :camel:
