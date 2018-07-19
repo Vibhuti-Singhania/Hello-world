@@ -17,7 +17,7 @@ _You **can** combine them_
 ### Sub heading
 :sparkle: :camel: :boom:
 
-''' py
+``` py
   aything in python
   here, will print 
-  in colors '''
+  in colors ```
