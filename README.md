@@ -16,3 +16,8 @@ _You **can** combine them_
 
 ### Sub heading
 :sparkle: :camel: :boom:
+
+' py
+  aything in python
+  here, will print 
+  in colors'
