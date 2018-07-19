@@ -23,4 +23,4 @@ _You **can** combine them_
   in colors
 ```
 
-~~okay~~
+~~strike-through~~
