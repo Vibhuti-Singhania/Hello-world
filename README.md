@@ -1,7 +1,7 @@
 # Hello-world
 just another repository
 
-Learning to use GitHub.Version Control System, great experience.
+Learning to use GitHub.Version Control System, great experience. Learning is great!
 
 ## Heading
 *This text will be italic*
